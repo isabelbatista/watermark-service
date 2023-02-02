@@ -1,4 +1,5 @@
 #  Watermark Service #
+This is a code challenge for a job application (not a living service).
 The Watermark Service provides adding a watermark to a given document like
 a book or journal.
 
